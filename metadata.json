@@ -1,0 +1,6 @@
+{
+  "name": "Méridien Transit — Gestion Conteneurs & Facturation",
+  "description": "Application métier de gestion des dossiers de transit portuaire, suivi multi-conteneurs, calcul des surestaries et facturation multi-devises.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
